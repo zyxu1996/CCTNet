@@ -1,7 +1,8 @@
 # CCTNet: Coupled CNN and Transformer Network for Crop Segmentation of Remote Sensing Images, [RemoteSensing](https://www.mdpi.com/2072-4292/14/9/1956/htm)
 ## Introduction 
 We propose a Coupled CNN and Transformer Network to combine the local modeling advantage of the CNN and the global modeling advantage of Transformer to achieve SOTA performance on the [Barley Remote Sensing Dataset](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.76944054ZQD0l2&dataId=74952). By applying our code base, you can easily deal with ultra-high-resolution remote sensing images. If our work is helpful to you, please star us.  
-<img src="CCTNet.png" width="770" height="511" alt="CCTNet Framework"/><br/>
+
+<img src="CCTNet.png" width="770" height="300" alt="CCTNet Framework"/><br/>
 ## Usage
 * Install packages  
 
