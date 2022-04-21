@@ -64,7 +64,7 @@ We propose a Coupled CNN and Transformer Network to combine the local modeling a
     ```
     cd ./work_dir/your_work
     ```
-  * Do remember undo the test command in `sh autorun.sh`. And keep the `--information num1` in testing command are same as the information in training command.   
+  * Do remember undo the test command in `sh autorun.sh`. And keep the `--information num1` in testing command is same as the information in training command.   
     `CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.launch --nproc_per_node=1 --master_port 29505 test.py --dataset barley --val_batchsize 8 --models cctnet --head seghead --crop_size 512 512 --trans_cnn cswin_tiny resnet50 --save_dir work_dir --base_dir ../../ --information num1
 ` 
   * Then run the script autorun.sh.  
