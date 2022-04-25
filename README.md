@@ -76,7 +76,16 @@ Thanks Guangzhou Jingwei Information Technology Co., Ltd., and the Xingren City 
 Thanks the ISPRS for providing the Potsdam and Vaihingen datasets.
 ## Citation
 ```
-Waiting for Update.
+@article{wang2022cctnet,
+  title={CCTNet: Coupled CNN and Transformer Network for Crop Segmentation of Remote Sensing Images},
+  author={Wang, Hong and Chen, Xianzhong and Zhang, Tianxiang and Xu, Zhiyong and Li, Jiangyun},
+  journal={Remote Sensing},
+  volume={14},
+  number={9},
+  pages={1956},
+  year={2022},
+  publisher={MDPI}
+}
 ```
 ## Other Links
 * [HRCNet: High-Resolution Context Extraction Network for Semantic Segmentation of Remote Sensing Images](https://github.com/zyxu1996/HRCNet-High-Resolution-Context-Extraction-Network)
